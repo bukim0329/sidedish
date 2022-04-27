@@ -1,10 +1,15 @@
 {
   "files": {
-    "main.js": "/sidedish/static/js/main.0410f3b2.js",
-    "index.html": "/sidedish/index.html",
-    "main.0410f3b2.js.map": "/sidedish/static/js/main.0410f3b2.js.map"
+    "main.js": "/bukim0329/sidedish/static/js/main.07476054.js",
+    "static/media/cartIcon.svg": "/bukim0329/sidedish/static/media/cartIcon.d0eea785e17c542bef207631f2060483.svg",
+    "static/media/searchIcon.svg": "/bukim0329/sidedish/static/media/searchIcon.ad995628dd8c3e59a5927c91585ab0d3.svg",
+    "index.html": "/bukim0329/sidedish/index.html",
+    "static/media/userIcon.svg": "/bukim0329/sidedish/static/media/userIcon.4b23d3444bd00febbe053e2eaab43bed.svg",
+    "static/media/rightIcon.svg": "/bukim0329/sidedish/static/media/rightIcon.72f2c4dd95215ad7a6986640c22f9b4e.svg",
+    "static/media/leftIcon.svg": "/bukim0329/sidedish/static/media/leftIcon.f3c6fc52b64b54e7e29a1a9d58faafae.svg",
+    "main.07476054.js.map": "/bukim0329/sidedish/static/js/main.07476054.js.map"
   },
   "entrypoints": [
-    "static/js/main.0410f3b2.js"
+    "static/js/main.07476054.js"
   ]
 }
